@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 -->
 [![Rafael's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafaelfcardoso)](https://github.com/rafaelfcardoso/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelfcardoso)](https://github.com/rafaelfcardoso/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelfcardoso&layout=compact)](https://github.com/rafaelfcardoso/github-readme-stats)
+
