@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rafael Cardoso</h1>
 <h3 align="center">A passionate Software Developer from Brazil</h3>
 
-- 🌱 I’m currently learning **React with Redux and Context API**
+- 🌱 I’m currently learning **Context API and React Hooks**
 
 - 💬 Ask me about **React.js, Python and JavaScript.**
 
