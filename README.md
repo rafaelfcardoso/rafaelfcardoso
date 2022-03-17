@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rafael Cardoso</h1>
+<h3 align="center">Hi 👋, I'm Rafael Cardoso</h3>
 <h3 align="center">A passionate Software Developer from Brazil</h3>
 
 - 🌱 I’m currently learning **Context API and React Hooks**
