@@ -1,7 +1,7 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Rafael Cardoso!
 A Software Engineer specializing in JavaScript technologies and AWS. Professional experience with the technologies listed in the **toolbox** below.
 
-- 🌱 I’m currently learning **Context API and React Hooks**
+- 🌱 I’m currently learning **C++**
 
 - 💬 Ask me about **React with Redux, Python or machine learning.**
 
