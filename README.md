@@ -3,7 +3,7 @@ A Software Engineer specializing in JavaScript technologies and AWS. Professiona
 
 - 🌱 I’m currently learning **Docker**
 
-- 💬 Ask me about **React with Redux, Python or machine learning.**
+- 💬 Ask me about **React, Redux with React or Python.**
 
 
 <h3 align="left">Languages and Tools:</h3>
