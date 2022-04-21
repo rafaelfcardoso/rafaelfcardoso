@@ -3,7 +3,7 @@ A Software Engineer specializing in JavaScript technologies and AWS. Professiona
 
 - 🌱 I’m currently learning **NodeJS**
 
-- 💬 Ask me about **React, Redux or Python.**
+- 💬 Ask me about **ReactJS, Redux or Python.**
 - 🎵 Playlist: <a href="https://open.spotify.com/playlist/4LnTQT9pZuyXG96WS9RNzU?si=72af10c925d44ad3" target="_blank" rel="noreferrer"> Music for coding. </a>
 
 
