@@ -4,7 +4,7 @@ A Software Engineer specializing in JavaScript technologies and AWS. Professiona
 - 🌱 I’m currently learning **Docker**
 
 - 💬 Ask me about **React, Redux with React or Python.**
-- 🎵 Curated playList: <a href="https://open.spotify.com/playlist/4LnTQT9pZuyXG96WS9RNzU?si=72af10c925d44ad3" target="_blank" rel="noreferrer"> Music for coding. </a>
+- 🎵 My playList: <a href="https://open.spotify.com/playlist/4LnTQT9pZuyXG96WS9RNzU?si=72af10c925d44ad3" target="_blank" rel="noreferrer"> Music for coding. </a>
 
 
 <h3 align="left">Languages and Tools:</h3>
