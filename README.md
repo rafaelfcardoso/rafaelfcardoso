@@ -3,7 +3,7 @@ A Software Engineer specializing in JavaScript technologies and AWS. Professiona
 
 - 🌱 I’m currently learning **Node.js**
 
-- 💬 Ask me about **blockchain, React.js or Python.**
+- 💬 Ask me about **React.js, blockchain or machine learning.**
 
 
 <h3 align="left">Languages and Tools:</h3>
