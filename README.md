@@ -1,9 +1,9 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Rafael Cardoso!
 A Software Engineer specializing in JavaScript technologies and AWS. Experience with the technologies listed in the **toolbox** below.
 
-- 🌱 I’m currently learning **Node.js**
+- 🌱 I’m currently learning **NodeJS**
 
-- 💬 Ask me about **React.js, blockchain or machine learning.**
+- 💬 Ask me about **ReactJS, blockchain or machine learning.**
 
 
 <h3 align="left">Languages and Tools:</h3>
