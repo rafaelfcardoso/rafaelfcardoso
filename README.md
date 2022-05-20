@@ -3,7 +3,7 @@ A Software Engineer specializing in JavaScript technologies and AWS. Experience 
 
 - 🌱 I’m currently learning **NodeJS**
 
-- 💬 Ask me about **ReactJS, docker or machine learning.**
+- 💬 Ask me about **ReactJS, docker, front-end.**
 
 
 <h3 align="left">Languages and Tools:</h3>
