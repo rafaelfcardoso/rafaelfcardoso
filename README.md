@@ -4,18 +4,15 @@ A Software Engineer training in back-end development. Experience with the techno
 My passion with web development started in 2020 when I faced the problem of how to deploy machine learning models. So I learned JavaScript and today I'm doing a full stack development training at Trybe, learning collaboration tools, soft skills and agile methodologies.
 </p>
 
-<center>
-<table>
-    <tr>
-        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelfcardoso&layout=compact&theme=prussian" /></td>
-        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=rafaelfcardoso&layout=compact&theme=prussian"/></td>
-    </tr>   
-</table>
-</center>
+## Statistics:
+<p>
+<img width="400px" height="150em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelfcardoso&layout=compact&theme=prussian" />
+<img width="495px" height="150em" align="center" src="https://github-readme-stats.vercel.app/api?username=rafaelfcardoso&layout=compact&theme=prussian"/>
+</p>
 
-<h3 align="left">Languages and Tools:</h3>
+## Technologies:
 
-[![My Skills](https://skillicons.dev/icons?i=bash,css,javascript,mysql,express,react,nodejs,redux,python,docker,git,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=javascript,bash,mysql,express,react,nodejs,redux,python,docker,git,figma)](https://skillicons.dev)
 
 
 
