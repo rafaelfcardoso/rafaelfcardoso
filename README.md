@@ -4,7 +4,8 @@ A Software Engineer training in back-end development. Experience with the techno
 My passion with web development started in 2020 when I faced the problem of how to deploy machine learning models. So I learned JavaScript and today I'm doing a full stack development training at Trybe, learning collaboration tools, soft skills and agile methodologies.
 </p>
 
-## Statistics:
+<details>
+    <summary>Github Statistics:</summary>
 <center>
 <table>
     <tr>
@@ -13,6 +14,7 @@ My passion with web development started in 2020 when I faced the problem of how 
     </tr>   
 </table>
 </center>
+</details>
 
 ## Technologies:
 <p align="center">
