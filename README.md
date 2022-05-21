@@ -5,7 +5,7 @@ A Software Engineer specializing in JavaScript technologies and AWS. Experience 
 
 - 💬 Ask me about **ReactJS, docker, front-end.**
 
-
+[![My Skills](https://skillicons.dev/icons?i=aws,bash,docker,git,linux,mysql,express,react,redux,nodejs,javascript,python)](https://skillicons.dev)
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
