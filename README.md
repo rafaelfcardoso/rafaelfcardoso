@@ -5,7 +5,7 @@ My passion with web development started in 2020 when I faced the problem of how 
 <center>
 <table>
     <tr>
-        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelfcardoso&hide=html&layout=compact&theme=buefy" /></td>
+        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelfcardoso&layout=compact&theme=buefy" /></td>
         <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=rafaelfcardoso&theme=buefy"/></td>
     </tr>   
 </table>
