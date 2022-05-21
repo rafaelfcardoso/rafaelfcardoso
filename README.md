@@ -17,7 +17,7 @@ My passion with web development started in 2020 when I faced the problem of how 
 ## Technologies:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=javascript,bash,mysql,express,react,nodejs,redux,python,docker,git,figma" />
+    <img src="https://skillicons.dev/icons?i=git,javascript,docker,bash,mysql,express,react,nodejs,redux,python" />
   </a>
 </p>
 
