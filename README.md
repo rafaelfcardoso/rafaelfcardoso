@@ -6,7 +6,7 @@ My passion with web development started in 2020 when I faced the problem of how 
 
 ## Statistics:
 <p>
-<img width="400px" height="150em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelfcardoso&layout=compact&theme=prussian" />
+<img width="400px" height="150em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelfcardoso&layout=compact&theme=prussian" />
 <img width="495px" height="150em" align="center" src="https://github-readme-stats.vercel.app/api?username=rafaelfcardoso&layout=compact&theme=prussian"/>
 </p>
 
