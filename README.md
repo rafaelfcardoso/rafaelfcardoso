@@ -5,7 +5,7 @@ My passion with web development started in 2020 when I faced the problem of how 
 </p>
 
 <details>
-    <summary>Github Statistics:</summary>
+    <summary>Github Statistics</summary>
 <center>
 <table>
     <tr>
