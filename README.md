@@ -8,16 +8,19 @@ My passion with web development started in 2020 when I faced the problem of how 
 <center>
 <table>
     <tr>
-        <td><img width="450" height="150em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelfcardoso&layout=compact&theme=prussian" /></td>
-        <td><img width="495px" height="150em" align="center" src="https://github-readme-stats.vercel.app/api?username=rafaelfcardoso&layout=compact&theme=prussian"/></td>
+        <td><img width="450" height="200em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelfcardoso&layout=compact&theme=prussian" /></td>
+        <td><img width="495px" height="200em" align="center" src="https://github-readme-stats.vercel.app/api?username=rafaelfcardoso&layout=compact&theme=prussian"/></td>
     </tr>   
 </table>
 </center>
 
-
 ## Technologies:
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=javascript,bash,mysql,express,react,nodejs,redux,python,docker,git,figma" />
+  </a>
+</p>
 
-[![My Skills](https://skillicons.dev/icons?i=javascript,bash,mysql,express,react,nodejs,redux,python,docker,git,figma)](https://skillicons.dev)
 
 
 
