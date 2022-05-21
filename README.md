@@ -13,7 +13,7 @@ My passion with web development started in 2020 when I faced the problem of how 
 
 <h3 align="left">Languages and Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=bash,html,css,javascript,mysql,express,react,nodejs,redux,python,docker,git,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=bash,css,javascript,mysql,express,react,nodejs,redux,python,docker,git,figma)](https://skillicons.dev)
 
 
 
