@@ -14,16 +14,6 @@ My passion with web development started in 2020 when I faced the problem of how 
 </a>
 </div>
 
-<center>
-<table>
-    <tr>
-        <td><img width="390" height="200em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelfcardoso&layout=compact&theme=prussian" /></td>
-        <td><img width="495px" height="200em" align="center" src="https://github-readme-stats.vercel.app/api?username=rafaelfcardoso&layout=compact&theme=prussian"/></td>
-    </tr>   
-</table>
-</center>
-</details>
-
 ### Technologies:
 <p align="center">
   <a href="https://skillicons.dev">
