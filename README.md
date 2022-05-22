@@ -4,7 +4,7 @@ A Software Engineer training in back-end development. Experience with the techno
 My passion with web development started in 2020 when I faced the problem of how to deploy machine learning models. So I learned JavaScript and today I'm doing a full stack development training at Trybe, learning collaboration tools, soft skills and agile methodologies.
 </p>
 
-#### Statistics:
+### Statistics:
 <div align="center">
 <a href="https://github.com/rafaelfcardoso/">
   <img style="display: inline_block" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelfcardoso&layout=compact&theme=prussian"/>
@@ -14,7 +14,7 @@ My passion with web development started in 2020 when I faced the problem of how 
 </a>
 </div>
 
-#### Technologies:
+### Technologies:
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,javascript,docker,aws,bash,mysql,express,react,nodejs,redux,python" />
