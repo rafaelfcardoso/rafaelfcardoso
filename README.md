@@ -1,7 +1,7 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Rafael Cardoso!
 A Software Engineer training in back-end, experience with the technologies in the toolbox below.
 <p>
-My passion with web development started in 2020 when I needed to deploy machine learning models. So I learned JavaScript and today I'm doing a full stack development training at Trybe.
+My passion with web development started in 2021 when I needed to deploy machine learning models. So I learned JavaScript and today I'm doing a full stack development training at Trybe.
 </p>
 
 ### Statistics:
