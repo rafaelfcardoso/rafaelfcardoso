@@ -1,6 +1,6 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Rafael Cardoso!
 A Software Engineer training in back-end, experience with the technologies in the toolbox below.
-🌱 I’m currently learning NodeJS, Solidity.
+<p>🌱 I’m currently learning NodeJS, Solidity.</p>
 
 
 ### Statistics:
