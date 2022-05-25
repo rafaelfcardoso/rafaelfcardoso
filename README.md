@@ -16,7 +16,7 @@ A Software Engineer training in back-end, experience with the technologies in th
 ### Technologies:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,javascript,docker,aws,bash,mysql,express,react,nodejs,redux,python" />
+    <img src="https://skillicons.dev/icons?i=git,javascript,docker,bash,mysql,express,react,nodejs,redux,python" />
   </a>
 </p>
 
