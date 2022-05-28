@@ -1,4 +1,4 @@
-### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, 
+### Hi there, 
 I'm a Software Engineer training in back-end, experience with the technologies in the toolbox below.
 <p>🌱 I’m currently learning NodeJS, Solidity.</p>
 
