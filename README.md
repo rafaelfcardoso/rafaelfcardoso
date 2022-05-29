@@ -1,5 +1,5 @@
 ### Hi there, 
-I'm a Software Engineer training in back-end, experience with the technologies in the toolbox below.
+I'm a Software Engineer training in JavaScript technologies, experience with the tools below.
 <p>🌱 I’m currently learning NodeJS, Solidity.</p>
 
 
