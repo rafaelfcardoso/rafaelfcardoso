@@ -1,5 +1,5 @@
 ### Hi there, 
-I'm a Software Engineer training in JavaScript technologies, experience with the tools below.
+I'm a Software Engineer specializing in JavaScript technologies, experience with the tools below.
 <p>🌱 I’m currently learning NodeJS, Solidity.</p>
 
 
