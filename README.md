@@ -1,6 +1,6 @@
 ### Hi there, 
 I'm a Software Engineer specializing in JavaScript technologies, experience with the tools below.
-<p>🌱 I’m currently learning TypeScript and MongoDB</p>
+<p>🌱 I’m currently learning C# and MongoDB</p>
 
 
 ### Statistics:
