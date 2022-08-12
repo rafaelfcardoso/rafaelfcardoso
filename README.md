@@ -1,7 +1,7 @@
 ### Hi there, 
 I'm a Software Engineer specializing in JavaScript technologies, experience with the tools below.
 <p>🌱 I’m currently learning C# and MongoDB</p>
-<a href="https://open.spotify.com/playlist/4LnTQT9pZuyXG96WS9RNzU?si=3bf9280bf78b48de">:headphones: Play </a>List To Code By
+<a href="https://open.spotify.com/playlist/4LnTQT9pZuyXG96WS9RNzU?si=3bf9280bf78b48de">:arrow_forward: Play </a>List To Code By
 
 
 ### Statistics:
