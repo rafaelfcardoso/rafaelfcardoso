@@ -17,7 +17,7 @@ I'm a Software Engineer specialist in JavaScript Web Development, experience wit
 ### Technologies:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bash,git,docker,css,javascript,typescript,mongodb,express,react,nodejs,redux,mysql,heroku,python" />
+    <img src="https://skillicons.dev/icons?i=bash,git,docker,css,javascript,typescript,mongodb,express,react,nodejs,redux,mysql,heroku,python,jest" />
   </a>
 </p>
 
