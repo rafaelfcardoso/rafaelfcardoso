@@ -1,6 +1,6 @@
 ### Hi there, 
 I'm a Software Engineer specialist in JavaScript Web Development, experience with the tools below.
-<p>🌱 I’m currently learning C# and MongoDB</p>
+<p>🌱 I’m currently learning C#</p>
 <a href="https://open.spotify.com/playlist/4LnTQT9pZuyXG96WS9RNzU?si=3bf9280bf78b48de">:arrow_forward: Play </a>List To Code By
 
 
@@ -17,7 +17,7 @@ I'm a Software Engineer specialist in JavaScript Web Development, experience wit
 ### Technologies:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bash,docker,css,javascript,typescript,mongodb,express,react,nodejs,redux,mysql,heroku,python,jest" />
+    <img src="https://skillicons.dev/icons?i=bash,docker,css,javascript,typescript,c#,mongodb,express,react,nodejs,redux,mysql,heroku,python,jest" />
   </a>
 </p>
 
