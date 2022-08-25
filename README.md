@@ -1,8 +1,3 @@
-### Hi there, 
-I'm a Software Engineer specialist in JavaScript Web Development, experience with the tools below.
-<p>🌱 I’m currently learning C#</p>
-
-
 ### Statistics:
 <div align="center">
 <a href="https://github.com/rafaelfcardoso/">
