@@ -1,7 +1,7 @@
 ### Hi there, 
 I'm a Software Engineer working in back-end systems for finance. Experience with the tools below.
 <p>🌱 I’m currently learning C#</p>
-<a href="https://open.spotify.com/playlist/4LnTQT9pZuyXG96WS9RNzU?si=3bf9280bf78b48de">:arrow_forward: Play </a>List To Code By
+:arrow_forward: Play List To <a href="https://open.spotify.com/playlist/4LnTQT9pZuyXG96WS9RNzU?si=3bf9280bf78b48de">Code </a>By
 
 ### Statistics:
 <div align="center">
