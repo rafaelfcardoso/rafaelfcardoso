@@ -1,6 +1,7 @@
 ### Hi there, 
 I'm a Software Engineer working in back-end systems for finance. Experience with the tools below.
 <p>🌱 I’m currently learning C#</p>
+:arrow_forward: Focus<a href="https://open.spotify.com/playlist/4LnTQT9pZuyXG96WS9RNzU?si=3bf9280bf78b48de"> music </a>I usually listen to
 
 ### Statistics:
 <div align="center">
