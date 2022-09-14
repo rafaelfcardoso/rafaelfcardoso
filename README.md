@@ -16,7 +16,7 @@ I'm a Software Engineer working in back-end systems for finance. Experience with
 ### Technologies:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bash,css,cs,docker,dotnet,javascript,typescript,mongodb,express,react,nodejs,redux,mysql,python" />
+    <img src="https://skillicons.dev/icons?i=bash,docker,css,cs,dotnet,mongodb,express,react,nodejs,redux,mysql,javascript,typescript,python" />
   </a>
 </p>
 
