@@ -1,5 +1,5 @@
 ### Hi there, 
-I'm a Software Engineer working in back-end systems for finance. Experience with the tools below.
+I'm working in back-end systems for finance. Experience with the tools below.
 <p>🌱 I’m currently learning C#</p>
 
 
