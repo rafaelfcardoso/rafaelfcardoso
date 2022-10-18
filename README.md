@@ -1,6 +1,6 @@
 ### Hi there, 
 I'm working in back-end systems for finance. Experience with the tools below.
-<p>🌱 I’m currently learning C#</p>
+<p>🌱 I’m currently learning ASP.NET</p>
 
 
 ### Statistics:
