@@ -16,7 +16,7 @@ I'm working in back-end systems for finance. Experience with the tools below.
 ### Technologies:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bash,docker,css,cs,dotnet,mongodb,express,react,nodejs,redux,mysql,javascript,typescript,python" />
+    <img src="https://skillicons.dev/icons?i=bash,docker,azure,visualstudio,cs,dotnet,mongodb,express,react,nodejs,redux,mysql,javascript,typescript,python" />
   </a>
 </p>
 
