@@ -1,7 +1,7 @@
 👋 I’m Rafael — full stack & iOS dev exploring the intersection of AI, productivity, and great UX.
 
 Creator of [Kairo](https://kairo-landing-page-production.up.railway.app/), a SwiftUI app that combines GPT, tasks, and focus sessions.
-NestJS + Supabase on the backend, GPT agents in the middle.
+NestJS + Supabase on the backend, LLM agents in a MCP.
 Always shipping, always learning.
 
 ### Technologies:
